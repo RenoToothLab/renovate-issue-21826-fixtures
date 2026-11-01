@@ -13,8 +13,7 @@
     {
       "matchPackageNames": [
         "is-number",
-        "is-odd",
-        "is-even"
+        "is-odd"
       ],
       "groupName": "fixture dependencies",
       "separateMajorMinor": false
