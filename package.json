@@ -3,8 +3,8 @@
   "private": true,
   "packageManager": "pnpm@11.28.7",
   "dependencies": {
-    "is-number": "6.0.0",
-    "is-odd": "2.0.0",
-    "is-even": "0.1.0"
+    "is-number": "7.0.0",
+    "is-odd": "3.0.1",
+    "is-even": "1.0.0"
   }
 }
