@@ -37,7 +37,5 @@
       ],
       "allowedVersions": "1.0.0"
     }
-  ],
-  "minimumReleaseAge": "36500 days",
-  "internalChecksFilter": "strict"
+  ]
 }
